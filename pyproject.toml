@@ -1,7 +1,8 @@
 [project]
 name = "api_list_pagination"
 version = "0.0.1"
-authors = [
+authors = []
+maintainers = [
   { name="Mho3ein", email="hh.vaez@gmail.com" },
 ]
 description = "A small package for easy use list apis in django rest framework, I call this ALP."
